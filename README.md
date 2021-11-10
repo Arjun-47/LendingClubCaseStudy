@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- **Background** : **Lending Club**[https://www.lendingclub.com/] is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+- **Background** : [**Lending Club**](https://www.lendingclub.com/) is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 - **Given** : Approved loan customers information from 2007 to 2011
 - **Business Problem** : Based on dataset related to customers analysis has to be made to helping the finance company in decision making to provide loan to urban customers with minimal risk.
 - **Data Set Used** : Details of urban customers who have taken loan in the past which comprises of their loan amount, interest rate of loan, long or short loan, annual income, type of home there are staying etc.
@@ -39,7 +39,7 @@
 - Numpy - v1.19.2
 - Matplotlib - v3.3.2
 - Seaborn - v0.11.0
-- Calender - 
+- Calender
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -51,5 +51,5 @@ Give credit here.
 
 
 ## Contact
-Created by [@rashmiaab] & [@Arjun-47] - feel free to contact me!
+Created by [@rashmiaab](https://github.com/rashmiaab) & [@Arjun-47](https://github.com/Arjun-47) - feel free to contact me!
 
