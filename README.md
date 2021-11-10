@@ -19,16 +19,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-❑ Customer with below condition are tend be become defaulter,
-➢ G5 grade with 8 Open accounts
-➢ 8 inquiries in last 6 months
-➢ Home ownership status not given as well as Mortgage with 10K+ applied loan amount
-➢ 2 Bankruptcies with loan amount more than 8k+
-➢ Very high salary with 12K+ applied loan amount
-❑ Customer with below condition are having high chance of profit to business,
-➢ Very low interest rate for all grades except for Grade A
-➢ A grade and 60 month term period loan
-➢ G grade with 60 months term & F Grade with 36 month term
+- Customer with below condition are tend be become defaulter, <br>
+    - G5 grade with 8 Open accounts <br>
+    - 8 inquiries in last 6 months <br>
+    - Home ownership status not given as well as Mortgage with 10K+ applied loan amount <br>
+    - 2 Bankruptcies with loan amount more than 8k+ <br>
+    - Very high salary with 12K+ applied loan amount <br>
+- Customer with below condition are having high chance of profit to business, <br>
+    - Very low interest rate for all grades except for Grade A <br>
+    - A grade and 60 month term period loan <br>
+    - G grade with 60 months term & F Grade with 36 month term <br>
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
